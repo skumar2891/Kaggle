@@ -1,1 +1,1 @@
-# Kaggle
+# Kaggle competition source code.
